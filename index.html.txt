@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Siteul Meu</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f0f0f0;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      color: #555;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bine ai venit pe siteul meu!</h1>
+  <p>Aceasta este prima mea pagină găzduită cu <strong>GitHub Pages</strong>.</p>
+  <p>Creat cu 💻 de mine.</p>
+  <a href="https://github.com">Vezi GitHub</a>
+</body>
+</html>
